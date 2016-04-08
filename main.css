@@ -1,0 +1,33 @@
+.contenedor{ 
+	display: inline-block;
+	padding: 50px;
+}
+.linea{
+	border: 2px solid black;
+	margin-top: 20px;
+	width: 5%;
+}
+.caja{
+	width: 250px;
+	height:250px;
+	position: relative;
+	display: inline-block;
+	margin:50px;
+
+}
+img{
+	height:250px; 
+	width:250px;
+	position: static;
+}
+
+p{
+	font-family: cursive;
+	color: white;
+	position: absolute;
+	left: 120px;
+	top: 200px;
+}
+
+
+
