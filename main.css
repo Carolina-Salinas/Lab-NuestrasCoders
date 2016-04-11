@@ -15,18 +15,22 @@
 	margin:50px;
 
 }
-img{
+#foto{
 	height:250px; 
 	width:250px;
 	position: static;
+
+}
+#foto:hover{
+	opacity: 0.5;
 }
 
 p{
-	font-family: cursive;
+	font-family: arial;
 	color: white;
 	position: absolute;
-	left: 120px;
-	top: 200px;
+	bottom:0;
+	right: 0;
 }
 
 
